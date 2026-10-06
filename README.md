@@ -1,6 +1,6 @@
 # Shake That Jazz
 
-Spill i Python og Pygame fra 2023, med egne sprites og en butikk for oppgraderinger. Samle pizza, unngå hindringene og bruk pizzaen til å kjøpe oppgraderinger mellom rundene.
+Spill i Python og Pygame fra 2023, med egne sprites og en butikk for oppgraderinger. Samle pizza, unngå tubaene og bruk pizzaen til å kjøpe oppgraderinger mellom rundene.
 
 <img src="skjermbilde.jpg" alt="Skjermbilde av Shake That Jazz" width="640">
 
@@ -11,9 +11,7 @@ Spill i Python og Pygame fra 2023, med egne sprites og en butikk for oppgraderin
 | `Mellomrom` | Hopp |
 | `A` / `←`, `D` / `→` | Gå til venstre og høyre |
 | `R` | Start ny runde |
-| `H` | Kjøp mer liv (mellom rundene) |
-| `G` | Kjøp høyere hopp (mellom rundene) |
-| `F` | Kjøp flere pizzaer (mellom rundene) |
+| Mus | Kjøp oppgraderinger mellom rundene: mer liv, lavere tyngdekraft og flere pizzaer |
 
 ## Kjør spillet
 
@@ -30,4 +28,5 @@ python Prosjekt.py
 - `spritesheetClass.py` – klasse som deler opp spritesheets til animasjoner
 - `background/`, `jazzplayer/`, `pizza/`, `tuba/`, `spritesheets/` – grafikk
 - `xcf/` – kildefilene til grafikken (GIMP)
+- `UML-diagram Classes.eddx` – klassediagram (EdrawMax)
 - `IT pygame prosjekt Shake That Jazz.odp` – presentasjon av prosjektet
